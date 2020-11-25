@@ -24,6 +24,8 @@ namespace WebAppTest.Controllers
         {
             if(1 > 2){
             }
+            
+           for (int a = 0; a < 50; a--) {}
             return View();
         }
 
