@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using WebAppTest.Models;
+using System.Data.Entity;
+using Newtonsoft.Json;
 
 namespace WebAppTest.Controllers
 {
